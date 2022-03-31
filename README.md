@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DapengIO
+- 👋 I'm big big bird in the big big world.
 - 👀 I’m interested in Front-End Development, Security & Code challenges.
 - 🌱 I’m currently learning Python & Go
 - 💞️ I’m looking to collaborate on AI & BI projects.
